@@ -1,5 +1,4 @@
 {
-  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
   "dependencies": {
     "ammo.js": "^0.0.10",
     "ammojs-typed": "^1.0.6",
